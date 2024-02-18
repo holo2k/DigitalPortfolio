@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DigitalPortfolio", "DigitalPortfolio.csproj", "{9154BD2B-8176-45E7-B1DA-211E6CDEFF3A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{A1D6B667-10B1-4FFB-A367-6CFBBDB9594B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalPortfolio.Domain", "..\DigitalPortfolio.Domain\DigitalPortfolio.Domain.csproj", "{D33E5412-3C5F-4BCE-8DC4-A2893C12D428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9154BD2B-8176-45E7-B1DA-211E6CDEFF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9154BD2B-8176-45E7-B1DA-211E6CDEFF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9154BD2B-8176-45E7-B1DA-211E6CDEFF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9154BD2B-8176-45E7-B1DA-211E6CDEFF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D33E5412-3C5F-4BCE-8DC4-A2893C12D428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33E5412-3C5F-4BCE-8DC4-A2893C12D428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33E5412-3C5F-4BCE-8DC4-A2893C12D428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33E5412-3C5F-4BCE-8DC4-A2893C12D428}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D33E5412-3C5F-4BCE-8DC4-A2893C12D428} = {A1D6B667-10B1-4FFB-A367-6CFBBDB9594B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {934B3E5C-B89E-43EF-867A-C0AE148BD9DA}
+	EndGlobalSection
+EndGlobal
