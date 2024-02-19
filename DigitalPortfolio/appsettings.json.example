@@ -6,7 +6,7 @@
     }
   },
   "ConnectionStrings": {
-    "DefaultConnection": "Server = DESKTOP-VEVGCI6;Database = DigitalPortfolio;TrustedConnection = True"
+    "DefaultConnection": "Server = DESKTOP-VEVGCI6;Database = DigitalPortfolio;TrustedConnection = True" //DESKTOP-VEVGCI6
   },
   "AllowedHosts": "*"
 }
