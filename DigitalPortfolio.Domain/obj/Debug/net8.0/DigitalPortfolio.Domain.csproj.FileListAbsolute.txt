@@ -1,0 +1,12 @@
+C:\Users\belik\source\repos\DigitalPortfolio\DigitalPortfolio.Domain\bin\Debug\net8.0\DigitalPortfolio.Domain.deps.json
+C:\Users\belik\source\repos\DigitalPortfolio\DigitalPortfolio.Domain\bin\Debug\net8.0\DigitalPortfolio.Domain.dll
+C:\Users\belik\source\repos\DigitalPortfolio\DigitalPortfolio.Domain\bin\Debug\net8.0\DigitalPortfolio.Domain.pdb
+C:\Users\belik\source\repos\DigitalPortfolio\DigitalPortfolio.Domain\obj\Debug\net8.0\DigitalPortfolio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belik\source\repos\DigitalPortfolio\DigitalPortfolio.Domain\obj\Debug\net8.0\DigitalPortfolio.Domain.AssemblyInfoInputs.cache
+C:\Users\belik\source\repos\DigitalPortfolio\DigitalPortfolio.Domain\obj\Debug\net8.0\DigitalPortfolio.Domain.AssemblyInfo.cs
+C:\Users\belik\source\repos\DigitalPortfolio\DigitalPortfolio.Domain\obj\Debug\net8.0\DigitalPortfolio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\belik\source\repos\DigitalPortfolio\DigitalPortfolio.Domain\obj\Debug\net8.0\DigitalPortfolio.Domain.sourcelink.json
+C:\Users\belik\source\repos\DigitalPortfolio\DigitalPortfolio.Domain\obj\Debug\net8.0\DigitalPortfolio.Domain.dll
+C:\Users\belik\source\repos\DigitalPortfolio\DigitalPortfolio.Domain\obj\Debug\net8.0\refint\DigitalPortfolio.Domain.dll
+C:\Users\belik\source\repos\DigitalPortfolio\DigitalPortfolio.Domain\obj\Debug\net8.0\DigitalPortfolio.Domain.pdb
+C:\Users\belik\source\repos\DigitalPortfolio\DigitalPortfolio.Domain\obj\Debug\net8.0\ref\DigitalPortfolio.Domain.dll

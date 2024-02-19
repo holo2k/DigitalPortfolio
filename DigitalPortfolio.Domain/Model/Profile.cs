@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace DigitalPortfolio.Domain.Model
 {
-    internal class Portfolio
+    public class Profile
     {
-        public int Id {  get; set; }
-        public int UserId { get; set; }
+        int Id { get; set; }
 
-        public List<string> Links { get; set; }
+        string Description { get; set; }
+        User User { get; set; }
+
     }
 }

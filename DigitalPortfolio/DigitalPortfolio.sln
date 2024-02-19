@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DigitalPortfolio", "Digital
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{A1D6B667-10B1-4FFB-A367-6CFBBDB9594B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalPortfolio.Domain", "..\DigitalPortfolio.Domain\DigitalPortfolio.Domain.csproj", "{D33E5412-3C5F-4BCE-8DC4-A2893C12D428}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DigitalPortfolio.Domain", "..\DigitalPortfolio.Domain\DigitalPortfolio.Domain.csproj", "{D33E5412-3C5F-4BCE-8DC4-A2893C12D428}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{CEACF747-9E7F-48BB-B093-22FAE3236BF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalPortfolio.DAL", "..\DigitalPortfolio.DAL\DigitalPortfolio.DAL.csproj", "{16935E9C-9558-4789-A2D5-5C620B758F06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +27,17 @@ Global
 		{D33E5412-3C5F-4BCE-8DC4-A2893C12D428}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D33E5412-3C5F-4BCE-8DC4-A2893C12D428}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D33E5412-3C5F-4BCE-8DC4-A2893C12D428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16935E9C-9558-4789-A2D5-5C620B758F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16935E9C-9558-4789-A2D5-5C620B758F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16935E9C-9558-4789-A2D5-5C620B758F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16935E9C-9558-4789-A2D5-5C620B758F06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{D33E5412-3C5F-4BCE-8DC4-A2893C12D428} = {A1D6B667-10B1-4FFB-A367-6CFBBDB9594B}
+		{16935E9C-9558-4789-A2D5-5C620B758F06} = {CEACF747-9E7F-48BB-B093-22FAE3236BF0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {934B3E5C-B89E-43EF-867A-C0AE148BD9DA}

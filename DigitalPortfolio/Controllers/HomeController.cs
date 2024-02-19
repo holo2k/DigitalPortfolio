@@ -1,3 +1,4 @@
+using DigitalPortfolio.Domain.Model;
 using DigitalPortfolio.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
@@ -15,6 +16,7 @@ namespace DigitalPortfolio.Controllers
 
         public IActionResult Index()
         {
+            //User admin = new User(0, "admin", "nneketaa@yandex.ru", "admin"); 
             return View();
         }
 
